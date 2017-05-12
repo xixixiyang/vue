@@ -30,7 +30,7 @@
 		data() {
 				return {
 					article: "",
-					src: require("../../images/laoxie.jpg"),
+					src: require("../../images/zhm.jpg"),
 					html: require("../../template/weui.html")
 				}
 			},
